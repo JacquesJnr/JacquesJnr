@@ -9,7 +9,7 @@
 
 #### **About Me:** 🏳️‍🌈
 
-I'm a baking, rock climbing and D&D playing Unity game developer. 22, student at UCSC; studying Games & Playable Media.
+I'm a baking, rock climbing and D&D playing Unity game developer. Student [@UCSCGame](https://twitter.com/UCSCGame); studying Games & Playable Media.
 
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
