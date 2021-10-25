@@ -1,7 +1,8 @@
 ### Hello! I'm Jacques✨
 
 **About Me:** 🏳️‍🌈
-I'm a baking, rock climbing and D&D playing Unity game developer. I'm a student at UCSC studying Games & Playable Media (Msc) 🐌 
+
+I'm a baking, rock climbing and D&D playing Unity game developer. 22, student at UCSC; studying Games & Playable Media.
 
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
@@ -22,4 +23,4 @@ My pinned repos are some of my best work, you'll find them all with README's exp
 [Reject Humanity: Return to Monkey](https://github.com/JacquesJnr/GAME-202-Reject-Humanity ) 🐵 - Alt Control Monkey Simulator.
 
 
-[![Image from Gyazo](https://i.gyazo.com/8c534935a31e4da42c42fc19d27fb314.png)](https://gyazo.com/8c534935a31e4da42c42fc19d27fb314)
+[![Image from Gyazo](https://i.gyazo.com/fcfb23c39c786dcc1df90e17609c68b2.png)](https://gyazo.com/fcfb23c39c786dcc1df90e17609c68b2)
