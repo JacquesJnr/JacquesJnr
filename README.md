@@ -1,10 +1,4 @@
-### Hello! I'm Jacques✨
-
-#### **About Me:** 🏳️‍🌈
-
-I'm a baking, rock climbing and D&D playing Unity game developer. 22, student at UCSC; studying Games & Playable Media.
-
-My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
+### Hello! I'm Jacques✨, welcome to my GitHub profile!
 
 #### **Links:**
 - [Portfolio](https://sites.google.com/view/jacquesvisserjnr) 🧑‍💻 
@@ -12,6 +6,12 @@ My pinned repos are some of my best work, you'll find them all with README's exp
 - [Twitter](https://twitter.com/JacquesVJr)  🐦 
 - [YouTube](https://www.youtube.com/channel/UC4c3NKjS2vlJP4EkRqbB-jQ) 🎬
 - [LinkedIn](https://www.linkedin.com/in/jacques-visser-b09786154/) 💼 
+
+#### **About Me:** 🏳️‍🌈
+
+I'm a baking, rock climbing and D&D playing Unity game developer. 22, student at UCSC; studying Games & Playable Media.
+
+My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 #### **Current Project:** 🚧
 *KonPon!* 
