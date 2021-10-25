@@ -20,3 +20,6 @@ My pinned repos are some of my best work, you'll find them all with README's exp
 
 **Favorite Project:** 🙌
 [Reject Humanity: Return to Monkey](https://github.com/JacquesJnr/GAME-202-Reject-Humanity ) 🐵 - Alt Control Monkey Simulator.
+
+
+[![Image from Gyazo](https://i.gyazo.com/8c534935a31e4da42c42fc19d27fb314.png)](https://gyazo.com/8c534935a31e4da42c42fc19d27fb314)
