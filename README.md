@@ -14,6 +14,7 @@ My pinned repos are some of my best work, you'll find them all with README's exp
 
 **Current Project:** 🚧
 *KonPon!* - A 2D, Japanese Language Learning Point & Click Adventure (links soon!)
+< br >
 [![Image from Gyazo](https://i.gyazo.com/d3292582436bf43336ac408b814d9938.png)](https://gyazo.com/d3292582436bf43336ac408b814d9938)
 
 **Favorite Project:** 🙌
