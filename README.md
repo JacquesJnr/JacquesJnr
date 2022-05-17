@@ -16,10 +16,9 @@ Graduate from [@UCSCGame](https://twitter.com/UCSCGame); Masters in Games & Play
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 #### **Current Project:** 🚧
-*Glowing Garden* 
+[Glowing Garden on Itch.io](https://activeduckstudio.itch.io/glowing-garden) 🍄 Available on Windows & MacOS.
 
 A 2D, relaxing, casual mushroom growing game about an adventurous fungal friend.
-[Glowing Garden on Itch.io](https://activeduckstudio.itch.io/glowing-garden) 🍄 Available on Windows & MacOS.
 
 #### **Favorite Project:** 🙌
 [Reject Humanity: Return to Monkey](https://github.com/JacquesJnr/GAME-202-Reject-Humanity ) 🐵 - Alt Control Monkey Simulator.
