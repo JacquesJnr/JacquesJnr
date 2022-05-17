@@ -14,9 +14,12 @@ I'm a baking, rock climbing and D&D playing Unity game developer. Student [@UCSC
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 #### **Current Project:** 🚧
-*KonPon!* 
+*Glowing Garden* 
 
-A 2D, Japanese Language Learning Point & Click Adventure (links soon!)
+A 2D, relaxing, casual mushroom growing game about an adventurous fungal friend.
+[Glowing Garden on Itch.io](https://activeduckstudio.itch.io/glowing-garden) 🍄 Available on Windows & MacOS.
 
 #### **Favorite Project:** 🙌
 [Reject Humanity: Return to Monkey](https://github.com/JacquesJnr/GAME-202-Reject-Humanity ) 🐵 - Alt Control Monkey Simulator.
+
+[YouTube Demo](https://www.youtube.com/watch?v=g0iM2NH1SwI) 🐵 - Game Demo
