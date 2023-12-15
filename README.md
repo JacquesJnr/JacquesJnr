@@ -9,18 +9,17 @@
 
 #### **About Me:** 😎
 
-Unity game developer. 
+Unity game developer. If you need a gane programmer, look this way! 👋
 
-Graduate from [@UCSCGame](https://twitter.com/UCSCGame); Masters in Games & Playable Media.
+Graduate from [@UCSCGame](https://twitter.com/UCSCGame); Masters in Games & Playable Media. 
 
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 #### **Current Project:** 🚧
-Unreleased 2D Platformer Game
+*Unreleased 2D Platformer Game*
 
 #### **Most Recent Game:** 🎮
-[Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕
-Endless runner 🏃, you play as a cybernetic dinosaur 🤖 trying to escape the secret laboratory of deranged scientists! ⚕️
+#[Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕 Endless runner 🏃, you play as a cybernetic dinosaur 🤖 trying to escape the secret laboratory of deranged scientists! ⚕️
 
 #### **Favorite Projects:** 🙌
 [Glowing Garden on Itch.io](https://activeduckstudio.itch.io/glowing-garden) 🍄 Available on Windows & MacOS.
