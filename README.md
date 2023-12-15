@@ -7,7 +7,7 @@
 
 ### **About Me:** 😎
 
-Unity game developer. If you need a gane programmer, look this way! 👋
+Unity game developer. If you need a game programmer, look this way! 👋
 
  *Masters in Games & Playable Media.* Graduate from [@UCSCGame](https://twitter.com/UCSCGame).
 
