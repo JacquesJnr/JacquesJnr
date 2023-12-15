@@ -17,7 +17,8 @@ My pinned repos are some of my best work, you'll find them all with README's exp
 *Unreleased 2D Platformer Game*
 
 ### **Most Recent Game:** 🎮
-### [Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕 Endless runner 🏃, you play as a cybernetic dinosaur 🤖 trying to escape the secret laboratory of deranged scientists! ⚕️
+#### [Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕 
+Endless runner 🏃, you play as a cybernetic dinosaur 🤖 trying to escape the secret laboratory of deranged scientists! ⚕️
 
 #### **Favorite Projects:** 🙌
 [Glowing Garden on Itch.io](https://activeduckstudio.itch.io/glowing-garden) 🍄 Available on Windows & MacOS.
