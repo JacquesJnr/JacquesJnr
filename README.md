@@ -9,7 +9,7 @@
 
 Unity game developer. If you need a gane programmer, look this way! 👋
 
-Graduate from [@UCSCGame](https://twitter.com/UCSCGame); Masters in Games & Playable Media. 
+ *Masters in Games & Playable Media.* Graduate from [@UCSCGame](https://twitter.com/UCSCGame).
 
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
