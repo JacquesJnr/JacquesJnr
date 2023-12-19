@@ -19,7 +19,8 @@ Unity game developer. If you need a game programmer, look this way! 👋
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 ### **Current Project:** 🚧
-*Unreleased 2D Platformer Game*
+[Retro-style 2D Platformer](https://jacquesjnr.itch.io/jammy-sounds)
+Collab with [@SamPullan](https://github.com/SamuelPullan) 
 
 ### **Most Recent Game:** 🎮
 #### [Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕 
