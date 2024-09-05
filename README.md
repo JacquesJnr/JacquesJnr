@@ -9,6 +9,7 @@
 - ["X"](https://twitter.com/JacquesVJr)  🐦 
 - [YouTube](https://www.youtube.com/channel/UC4c3NKjS2vlJP4EkRqbB-jQ) 🎬
 - [LinkedIn](https://www.linkedin.com/in/jacques-visser-b09786154/) 💼 
+- [Khosouf Profile](https://github.com/Jacques-Visser-Khosouf) 🐋
 
 ### **About Me:** 😎
 
@@ -19,8 +20,9 @@ Unity, Unreal, Godot. If you need a game programmer, look this way! 👋
 My pinned repos are some of my best work, you'll find them all with README's explaining the project & the work I contributed to them. See my games in action on YouTube or Itch!
 
 ### **Current Project:** 🚧
-[Retro-style 2D Platformer](https://jacquesjnr.itch.io/jammy-sounds)
-Collab with [@SamPullan](https://github.com/SamuelPullan) 
+[Shadow Dreams: The Last Thought of Hope](https://store.steampowered.com/app/1088760/Shadow_Dreams_The_Last_Thought_of_Hope/)
+
+[![My Contributions on my Corporate account](https://i.gyazo.com/96cdbcb86b15e9860735d2eb18901a69.png)](https://gyazo.com/96cdbcb86b15e9860735d2eb18901a69)
 
 ### **Most Recent Game:** 🎮
 #### [Max Velocity Velociraptor](https://jacquesjnr.itch.io/max-velocity-velociraptor) 🦕 
